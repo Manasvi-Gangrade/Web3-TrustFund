@@ -1,0 +1,12 @@
+.donate-container {
+    padding: 20px;
+}
+.donate-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.donate-form input {
+    width: 70%;
+    margin-bottom: 10px;
+}

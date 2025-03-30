@@ -1,0 +1,13 @@
+.create-fund-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+.create-fund-container input {
+    width: 80%;
+    margin-bottom: 10px;
+}
+.create-fund-container button {
+    width: 50%;
+}
